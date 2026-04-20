@@ -1,0 +1,60 @@
+   <!-- Author: Katie Eskew
+      Date: 4/19/2026
+      Fantasy Fan Fiction -->
+    body {
+        margin: 0px;
+    }
+    {
+        background-color: blue;
+    }
+      h1{
+        text-align: center;
+    }
+    h2{
+        text-align: center;
+    }
+    .navbar ul{
+        list-style-type: none;
+        background-color: black;
+        padding: 0px;
+        margin: 0px;
+        overflow:hidden;
+    }
+    .navbar a{
+        color: white;
+        text-decoration: none;
+        padding: 15px;
+        display:block;
+        text-align: center;
+    }
+    .navbar a:hover{
+        background-color: lightgrey;
+    }
+    .navbar li{
+        float:left;
+    }
+img {
+    imgage-align: center;
+    width: 300px;
+    length: 300px;
+}
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solida black;
+    padding: .2em .7em;
+    text-align: center
+}
+thead, tfoot {
+    background-color: blue;
+}
+tfoot {
+    font-weight: bold;
+}
+
+video {
+    width: 50%;
+}
+
